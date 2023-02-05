@@ -1,6 +1,6 @@
 ### Hello there, I'm Eugene Masaka  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="500" height="320" />
 
 
 ## I'm a Developer and Graphic Designer
@@ -19,3 +19,4 @@
 
 [portfolio]: https://github.com/genemasaka
 [twitter]: https://twitter.com/masakagene
+[blog3.0]: https://github.com/genemasaka/blog3.0
