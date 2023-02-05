@@ -8,7 +8,7 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on [blog3.0].
 - 🌱 I’m currently learning Rust and Solidity
-- 👯 I’m looking to collaborate on open source
+- 🤝🤝🏿 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 
 - ⚡ Fun fact: I am proficient at FL Studio
