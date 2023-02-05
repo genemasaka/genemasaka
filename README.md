@@ -4,7 +4,7 @@
 
 
 
-## I'm a Developer and Graphic Designer
+## I'm a Fullstack Web3.0 Developer
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on [blog3.0].
 - 🌱 I’m currently learning Rust and Solidity
