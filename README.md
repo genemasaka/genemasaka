@@ -1,6 +1,6 @@
 ### Hello there, I'm Eugene Masaka  👋
 
- <img align="right" alt="GIF" src="[genedev]" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103903615/216817505-c49d0911-0ce1-4127-a7f8-bbce59fcf6a1.png" width="500" height="320" />
 
 
 
@@ -21,4 +21,4 @@
 [portfolio]: https://github.com/genemasaka
 [twitter]: https://twitter.com/masakagene
 [blog3.0]: https://github.com/genemasaka/blog3.0
-![genedev](https://user-images.githubusercontent.com/103903615/216817505-c49d0911-0ce1-4127-a7f8-bbce59fcf6a1.png)
+
