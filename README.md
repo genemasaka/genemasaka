@@ -1,6 +1,6 @@
 ### Hello there, I'm Eugene Masaka  👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103903615/216817505-c49d0911-0ce1-4127-a7f8-bbce59fcf6a1.png" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103903615/216817991-2c744e0e-c47e-4939-8d65-77b1fd314cf7.png" width="500" height="800" />
 
 
 
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Rust and Solidity
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
+
 - ⚡ Fun fact: I am proficient at FL Studio
 
 
