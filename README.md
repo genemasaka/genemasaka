@@ -1,6 +1,6 @@
 ### Hello there, I'm Eugene Masaka  👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103903615/216817991-2c744e0e-c47e-4939-8d65-77b1fd314cf7.png" width="500" height="650" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103903615/216817991-2c744e0e-c47e-4939-8d65-77b1fd314cf7.png" width="500" height="600" />
 
 
 
@@ -15,7 +15,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="genemasaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [twitter]
+<img align="left" alt="genemasaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [twitter]
 
 <br />
 
