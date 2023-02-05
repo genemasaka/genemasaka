@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there, I'm Eugene Masaka  👋
 
-<!--
-**genemasaka/genemasaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [blog3](https://github.com/genemasaka/blog3.0)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Developer and Graphic Designer
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on [blog3.0].
+- 🌱 I’m currently learning Rust and Solidity
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I am proficient at FL Studio
+
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+
+<br />
