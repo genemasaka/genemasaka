@@ -18,7 +18,10 @@
 <img align="left" alt="genemasaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [twitter]
 
 <br />
-
+<details>
+ <summary>:zap: Github Stats</summary>
+ <img align="left" alt="gene's Github Stats" src="https://https://github-readme-stats-steel-chi-28.vercel.app/api?username-genemasaka&show_icons-true&hide_border-true" />
+</details>
 [portfolio]: https://github.com/genemasaka
 [twitter]: https://twitter.com/masakagene
 [blog3.0]: https://github.com/genemasaka/blog3.0
