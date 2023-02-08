@@ -20,7 +20,8 @@
 <br />
 <details>
  <summary>:zap: Github Stats</summary>
- <img align="left" alt="gene's Github Stats" src="https://https://github-readme-stats-steel-chi-28.vercel.app/api?username-genemasaka&show_icons-true&hide_border-true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-steel-chi-28.vercel.app
+/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 [portfolio]: https://github.com/genemasaka
 [twitter]: https://twitter.com/masakagene
