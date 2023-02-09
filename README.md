@@ -13,7 +13,8 @@
 
 
 ### Connect with me:
-
+[![website](./img/twitter-light.svg)](https://twitter.com/masakagene#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/masakagene#gh-dark-mode-only)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
