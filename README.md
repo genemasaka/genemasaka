@@ -22,6 +22,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg" style="padding-right:10px;" />
+<img align="left" alt="Gitt" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" style="padding-right:10px;" />
+
 
 
 
