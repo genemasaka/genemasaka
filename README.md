@@ -6,7 +6,7 @@
 ## I'm a Fullstack Web3 developer
 
 - 🔭 I am currently working on
-- 🌱 I’m currently learning rust, wasm, yew and substrate
+- 🌱 I’m currently learning rust, wasm, yew and ethers-rs
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to edit photos and create graphics on photoshop
