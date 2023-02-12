@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning rust, wasm, yew and substrate
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play around with photoshop
+- ⚡ Fun fact: I love to edit photos and create graphics on photoshop
 
 
 ### Connect with me:
