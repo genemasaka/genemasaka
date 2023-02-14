@@ -3,7 +3,7 @@
 
 
 
-## I'm a Fullstack Web3 developer
+## I'm a Fullstack Web3 developer working with Rust, Yew and Ethers to create decentralized applications
 
 - 🔭 I am currently working on
 - 🌱 I’m currently learning rust, wasm, yew and ethers-rs
