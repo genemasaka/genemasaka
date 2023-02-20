@@ -1,4 +1,4 @@
-# Hi there, I'm Eugene Masaka 👋 
+# Hi, I'm Eugene Masaka 👋 
 
 
 
