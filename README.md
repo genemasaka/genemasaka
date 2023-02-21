@@ -8,7 +8,7 @@
 - 🔭 I am currently working on [blog3]
 - 🌱 I’m currently learning rust, wasm, yew and ethers-rs
 - 👯 I’m looking to collaborate on fullstack rust dapps
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about defi and scaling of blockchains
 - ⚡ Fun fact: I love to edit photos and create graphics on photoshop
 
 
