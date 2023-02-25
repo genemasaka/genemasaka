@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning rust, wasm, yew and ethers-rs
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about defi and scaling of blockchains
-- ⚡ Fun fact: I love to cook👨🏿‍🍳 and take care of plants🌱
+- ⚡ Fun fact: I love west coast rap
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%40masakagene-1ca0f1?style=flat&logo=twitter)](https://twitter.com/masakagene)
