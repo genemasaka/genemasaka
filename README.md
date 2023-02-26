@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning rust, wasm, yew and ethers-rs
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about defi and scaling of blockchains
+- ✍🏿 I write informative twitter threads on web3 technology
 - ⚡ Fun fact: I love west coast rap
 
 ### Connect with me:
