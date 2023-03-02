@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about defi and scaling of blockchains
 - ✍🏿 I write informative twitter threads on web3 technology
-- ⚡ Fun fact: I love west coast rap
+- ⚡ Fun fact: I am halfway decent at drawing
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%40masakagene-1ca0f1?style=flat&logo=twitter)](https://twitter.com/masakagene)
