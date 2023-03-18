@@ -25,6 +25,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg" style="padding-right:10px;" />
+<img align="left" alt="Ethereum" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" style="padding-right:10px;" />
+
 
 
 
