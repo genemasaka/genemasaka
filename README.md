@@ -6,7 +6,7 @@
 ## I'm a Fullstack Web3.0 developer ♦
 
 - 🔭 I am currently working on [flight with birds](https://github.com/genemasaka/fwb.git)
-- 🌱 I’m currently learning rust, wasm, yew and ethers-rs
+- 🌱 I’m currently learning rust, wasm, yew and ethers
 - 👯 I’m looking to collaborate on fullstack rust dapps
 - 🥅 2023 Goals: Learn more about defi and scaling of blockchains
 - ✍🏿 I write informative twitter threads on web3 technology
