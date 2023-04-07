@@ -3,7 +3,7 @@
 
 
 
-## I'm a Fullstack Web3.0 developer ♦
+## I'm a Frontend Web3.0 developer ♦
 
 - 🔭 I am currently working on [flight with birds](https://github.com/genemasaka/fwb.git)
 - 🌱 I’m currently learning rust, wasm, yew and ethers
